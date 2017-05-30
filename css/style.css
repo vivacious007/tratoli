@@ -1,0 +1,121 @@
+#places-images{
+            margin-left: 10%;
+            margin-right: 10%;
+        }
+        #cent{
+            padding-right: 0px;
+            padding-left: 0px;
+        }
+        #place2{
+            padding: 0px;
+        }
+        #place3{
+            padding: 0px;
+            padding-top:7px;
+        }
+        .logo{
+            position: absolute;
+            top:35px;
+            left:67px;
+        }
+        .search{
+            position: absolute;
+            top: 35px;
+            left: 195px;
+            color: white;
+            
+        }
+        .search > i.fa{
+            position: absolute;
+            left: 5px;
+            top: 5px;
+        }
+        .search-input{
+            padding: 5px;
+            padding-left:25px;
+            height: 25px;
+            border: 0;
+            border-bottom:1px solid #f2f2f2;
+            background: transparent;
+        }
+        .header-links{
+            position: absolute;
+            right: 70px;
+            top: 30px;
+        }
+        .header-links .btn-default{
+            background:transparent;
+            color:#fff;
+            margin-left:20px;
+            border:2px solid transparent;
+        }
+        .header-links .btn-default:hover,
+        .header-links .btn-default:focus,
+        .header-links .btn-default.focus{
+            border: 2px solid #f2f2f2;
+            outline: none;
+            background: transparent;
+            color: #fff;
+        }
+        .thumb{
+            padding-left:0px;
+        }
+        .thumb:last-child{
+            padding-left:20px;
+        }
+        hr{
+            margin-left:10%;
+            margin-right:10%;
+        }
+        .time-panel{
+            margin-top:70px;
+        }
+        .time-panel h5{
+            color:#ccc;
+        }
+        .nav-pills>li{
+            float:none;
+            display: inline-block;
+        }
+        .nav-pills>li>a{
+            color: #000;
+            font-weight: bold;
+            text-transform: uppercase;
+            border: 3px solid transparent;
+            border-bottom: 3px solid transparent;
+        }
+        .nav-pills>li>a:hover{
+            background-color:transparent;
+            color:#15f4ee;
+            border-bottom: 3px solid #15f4ee;
+        }
+        .nav-container{
+            border-bottom:1px solid #ccc;
+            text-align:center;
+        }
+        ::placeholder{
+            color:#fff;
+        }
+        .weather{
+            display: inline;
+            margin-top: 30px;
+            text-align: center;
+    
+        }
+        .maps{
+           padding: 0px !important;
+          
+        }
+        
+        .footer{
+            margin:30px;
+            display:inline; 
+            text-align: center;
+            }
+        .ulfooter li{
+            display: inline;
+            padding: 60px;
+            position: relative;
+            font-size: 16px;
+            font-weight: bold;
+        }
